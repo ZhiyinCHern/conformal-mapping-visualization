@@ -161,7 +161,7 @@ f(z) = (填写公式)
 <div align="center">
 <img src="document/map_z_2.png" width="720"/>
 <br>
-图1：幂函数 $w=z^2$ 共形网格变换对比
+图1：幂函数 w=z^2 共形网格变换对比
 </div>
 
 <br>
@@ -169,7 +169,7 @@ f(z) = (填写公式)
 <div align="center">
 <img src="document/map_z_3.png" width="720"/>
 <br>
-图2：幂函数 $w=z^3$ 共形网格变换对比
+图2：幂函数 w=z^3 共形网格变换对比
 </div>
 
 <br>
@@ -177,7 +177,7 @@ f(z) = (填写公式)
 <div align="center">
 <img src="document/map_e_z.png" width="720"/>
 <br>
-图3：指数函数 $w=e^z$ 共形网格变换对比
+图3：指数函数 w=e^z 共形网格变换对比
 </div>
 
 <br>
@@ -185,7 +185,7 @@ f(z) = (填写公式)
 <div align="center">
 <img src="document/map_ln_z.png" width="720"/>
 <br>
-图4：对数函数 $w=\ln z$ 共形网格变换对比
+图4：对数函数 w=ln(z) 共形网格变换对比
 </div>
 
 <br>
@@ -193,7 +193,7 @@ f(z) = (填写公式)
 <div align="center">
 <img src="document/map_z_frac_1_z.png" width="720"/>
 <br>
-图5：儒可夫斯基变换 $w=z+\dfrac{1}{z}$ 共形网格变换对比
+图5：儒可夫斯基变换 w=z+1/z 共形网格变换对比
 </div>
 
 <br>
@@ -201,7 +201,7 @@ f(z) = (填写公式)
 <div align="center">
 <img src="document/map_i_z.png" width="720"/>
 <br>
-图6：虚数旋转变换 $w=iz$ 共形网格变换对比
+图6：虚数旋转变换 w=iz 共形网格变换对比
 </div>
 
 <br>
@@ -209,26 +209,44 @@ f(z) = (填写公式)
 <div align="center">
 <img src="document/map_sin_z.png" width="720"/>
 <br>
-图7：正弦函数 $w=\sin z$ 共形网格变换对比
+图7：正弦函数 w=sin(z) 共形网格变换对比
 </div>
 
 ### 2：图像变形
 
-这里以一张图书馆的照片为例进行变换.
+这里以图书馆的照片为例
 
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\library.png" alt="library" style="zoom: 33%;" />
+<div align="center">
+<img src="document/library.png" width="720"/>
+<br>
+图8：图书馆
+</div>
 
-`f(z)=ln(z)`：
+<br>
 
-![library_ln_z](C:\Users\27383\Desktop\conformal-mapping\document\library_ln_z.png)
+<div align="center">
+<img src="document/library_e_z.png" width="720"/>
+<br>
+图9：指数变换
+</div>
 
-`f(z)=e^z`：
+<br>
 
-![library_e_z](C:\Users\27383\Desktop\conformal-mapping\document\library_e_z.png)
+<div align="center">
+<img src="document/library_frac_1_z.png" width="720"/>
+<br>
+图10：反比例变换
+</div>
 
-`f(z)=1/z`：
+<br>
 
-![library_frac_1_z](C:\Users\27383\Desktop\conformal-mapping\document\library_frac_1_z.png)
+<div align="center">
+<img src="document/library_ln_z.png" width="720"/>
+<br>
+图11：对数变换
+</div>
+
+
 
 ## 七、AI 工具声明
 
