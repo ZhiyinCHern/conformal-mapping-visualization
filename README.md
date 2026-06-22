@@ -158,33 +158,59 @@ f(z) = (填写公式)
 
 ### 1：网格变形可视化
 
-这是`iz`的图像，可以看到，乘上i相当于旋转90度.
+<div align="center">
+<img src="document/map_z_2.png" width="720"/>
+<br>
+图1：幂函数 $w=z^2$ 共形网格变换对比
+</div>
 
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\map_i_z.png" alt="map_i_z" style="zoom: 50%;" />
+<br>
 
-这是`z^2`的图像.
+<div align="center">
+<img src="document/map_z_3.png" width="720"/>
+<br>
+图2：幂函数 $w=z^3$ 共形网格变换对比
+</div>
 
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\map_z_2.png" alt="map_z_2" style="zoom: 50%;" />
+<br>
 
-这是`z^3`的图像.
+<div align="center">
+<img src="document/map_e_z.png" width="720"/>
+<br>
+图3：指数函数 $w=e^z$ 共形网格变换对比
+</div>
 
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\map_z_3.png" alt="map_z_3" style="zoom:50%;" />
+<br>
 
-这是`sin(z)`的图像.
+<div align="center">
+<img src="document/map_ln_z.png" width="720"/>
+<br>
+图4：对数函数 $w=\ln z$ 共形网格变换对比
+</div>
 
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\map_sin_z.png" alt="map_sin_z" style="zoom:50%;" />
+<br>
 
-这是`e^z`的图像.
+<div align="center">
+<img src="document/map_z_frac_1_z.png" width="720"/>
+<br>
+图5：儒可夫斯基变换 $w=z+\dfrac{1}{z}$ 共形网格变换对比
+</div>
 
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\map_e_z.png" alt="map_e_z" style="zoom:50%;" />
+<br>
 
-这是所谓的"茹科夫斯基"变换，它可以把圆心位于原点的圆变为一系列共焦椭圆.
+<div align="center">
+<img src="document/map_i_z.png" width="720"/>
+<br>
+图6：虚数旋转变换 $w=iz$ 共形网格变换对比
+</div>
 
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\map_z_frac_1_z.png" alt="map_z_frac_1_z" style="zoom:50%;" />
+<br>
 
-这是`ln(z)`的图像.
-
-<img src="C:\Users\27383\Desktop\conformal-mapping\document\map_ln_z.png" alt="map_ln_z" style="zoom:50%;" />
+<div align="center">
+<img src="document/map_sin_z.png" width="720"/>
+<br>
+图7：正弦函数 $w=\sin z$ 共形网格变换对比
+</div>
 
 ### 2：图像变形
 
